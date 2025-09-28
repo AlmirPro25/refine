@@ -1,0 +1,7 @@
+{
+  "name": "refina of 11Copy of Criador de Redes Neurais AI",
+  "description": "Uma aplicação impulsionada por IA que utiliza o Gemini 2.5 Flash para gerar, explicar e visualizar código Python para redes neurais personalizadas com base nas descrições do usuário. É uma ferramenta para aprender e prototipar modelos de IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
